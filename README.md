@@ -27,6 +27,9 @@ Implemented generic tree data structures using linked nodes, supporting recursiv
 ### 🔹 Pointer Arrays & Command-Line Processing (C)
 Built memory-efficient pointer-based data manipulation and runtime command-line interfaces, emphasizing pointer semantics and function boundaries.
 
+### 🔹 Constraint Satisfaction & Search Strategies (Prolog)
+Modeled and solved constraint satisfaction problems using CLP(FD), comparing labeling heuristics and analyzing backtracking behavior and constraint propagation efficiency.
+
 ---
 
 ## 🎯 What I Care About
